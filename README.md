@@ -18,7 +18,7 @@
 ##### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Tela de recepção pequena" title="Tela de recepção pequena" src="./images/proffy-home-mobileweb.PNG" width="400px">
+  <img alt="Tela de recepção pequena" title="Tela de recepção pequena" src="./images/proffy-home-mobileweb.PNG" width="400px" height="650px">
   <img alt="Tela de listagem de professores pequena" title="Tela de listagem de professores pequena" src="./images/proffy-lista-mobileweb.PNG" width="400px">
   <img alt="Tela de recepção grande" title="Tela de recepção grande" src="./images/proffy-home-web.PNG" width="400px">
   <img alt="Tela de listagem de professores grande" title="Tela de listagem de professores grande" src="./images/proffy-lista-web-pesquisado.PNG" width="400px">
